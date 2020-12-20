@@ -1,0 +1,71 @@
+baseURL: "https://perigoso.github.io/"
+title: Rafael Silva aka Perigoso
+paginate: 5
+theme: papermod
+copyright: "copyright © 2020-21 Rafael Silva (@perigoso)"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production
+    title: Perigoso
+    description: "Perigoso's domain"
+#    author: Perigoso
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    comments: false
+    defaultTheme: light
+    disableThemeToggle: false
+    disableSpecial1stPost: true
+
+    assets:
+        favicon: /images/favicon_32.png
+        favicon16x16: /images/favicon_16.png
+        favicon32x32: /images/favicon_32.png
+
+    label:
+        text: "Home"
+        icon: /images/skull_thick_10mm.svg
+        iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: '@perigoso'
+        imageUrl: /images/skull_thick_10mm.svg
+        imageTitle: perigoso
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/perigoso"
+        - name: gitlab
+          url: "https://gitlab.com/perigoso"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rafael-silva-aka-perigoso"
+
+menu:
+    main:
+        - identifier: whoami
+          name: Who am I
+          url: /whoami
+          weight: 10
+        - identifier: curriculum
+          name: curriculum
+          url: /curriculum.pdf
+          weight: 20
+        - identifier: projects
+          name: Project Portfolio
+          url: /projects
+          weight: 30
+        - identifier: contact
+          name: Contact
+          url: /contactme
+          weight: 40

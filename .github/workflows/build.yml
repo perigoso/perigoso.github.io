@@ -1,0 +1,66 @@
+name: build
+on:
+  push:
+    branches:
+      - hugo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux
+    steps:
+      - name: Get date
+        id: date
+        run: echo "::set-output name=date::$(date +%F)"
+
+      - name: Cache
+        uses: actions/cache@v1
+        with:
+          path: /var/cache/pacman/pkg
+          key: arch-pkgs-${{ steps.date.outputs.date }}
+          restore-keys: arch-pkgs
+
+      - name: Update system and install dependencies
+        run: pacman -Syu --noconfirm --noprogressbar --needed hugo pygmentize python-docutils git
+
+      - name: Checkout build branch
+        uses: actions/checkout@v2
+        with:
+          ref: hugo
+          path: build
+
+      - name: Checkout master branch
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: deploy
+
+      - name: Generate website
+        run: |
+          cd "$GITHUB_WORKSPACE"/build
+          rm -rf "$GITHUB_WORKSPACE"/deploy/*
+          hugo --minify -d "$GITHUB_WORKSPACE"/deploy
+          cp -r deploy-include/* "$GITHUB_WORKSPACE"/deploy
+
+      - name: Setup git
+        run: |
+          git config --global user.email actions@github.com
+          git config --global user.name 'Github Actions'
+          git config --global core.editor true
+
+      - name: Commit packages
+        run: |
+          cd "$GITHUB_WORKSPACE"/deploy
+          git add -u
+          git add *
+          git commit --fixup HEAD || true
+          git rebase -i --autosquash --root
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          directory: deploy
+          force: true

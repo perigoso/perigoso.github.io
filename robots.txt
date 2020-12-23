@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://perigoso.github.io/sitemap.xml

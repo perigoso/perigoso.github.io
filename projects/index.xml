@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Rafael Silva aka Perigoso</title>
+    <link>https://perigoso.github.io/projects/</link>
+    <description>Recent content in Projects on Rafael Silva aka Perigoso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>copyright © 2020-21 Rafael Silva (@perigoso)</copyright><atom:link href="https://perigoso.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3M Piranha button repair board</title>
+      <link>https://perigoso.github.io/projects/3mpiranha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/3mpiranha/</guid>
+      <description>https://github.com/perigoso/3M-piranha-repair</description>
+    </item>
+    
+    <item>
+      <title>Alcohool gel dispenser</title>
+      <link>https://perigoso.github.io/projects/alcohool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/alcohool/</guid>
+      <description>Due to the comercial nature of the project I am not able to share the project details, but i can describe it.</description>
+    </item>
+    
+    <item>
+      <title>Alcohool gel sprayer</title>
+      <link>https://perigoso.github.io/projects/alcohol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/alcohol/</guid>
+      <description>Due to the comercial nature of the project I am not able to share the project details, but i can describe it.</description>
+    </item>
+    
+    <item>
+      <title>CP2130 C Lib</title>
+      <link>https://perigoso.github.io/projects/cp2130/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/cp2130/</guid>
+      <description>https://github.com/perigoso/cp2130</description>
+    </item>
+    
+    <item>
+      <title>EFM32 Support for the Tinyusb USB stack</title>
+      <link>https://perigoso.github.io/projects/tinyusb-efm32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/tinyusb-efm32/</guid>
+      <description>https://github.com/hathach/tinyusb/pull/703</description>
+    </item>
+    
+    <item>
+      <title>fmc</title>
+      <link>https://perigoso.github.io/projects/fmc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/fmc/</guid>
+      <description>https://github.com/perigoso/fmc</description>
+    </item>
+    
+    <item>
+      <title>Focbox unity ROS driver</title>
+      <link>https://perigoso.github.io/projects/focbox-ros-driver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/focbox-ros-driver/</guid>
+      <description>https://github.com/perigoso/focbox_unity_ros_driver</description>
+    </item>
+    
+    <item>
+      <title>freeconnect</title>
+      <link>https://perigoso.github.io/projects/freeconnect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/freeconnect/</guid>
+      <description>https://github.com/perigoso/freeconnect</description>
+    </item>
+    
+    <item>
+      <title>G305 Reverse Engineer</title>
+      <link>https://perigoso.github.io/projects/g305-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/g305-re/</guid>
+      <description>https://github.com/perigoso/g305-re
+https://github.com/perigoso/hero-re</description>
+    </item>
+    
+    <item>
+      <title>Haptic Control (Remote)</title>
+      <link>https://perigoso.github.io/projects/haptic-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/haptic-control/</guid>
+      <description>https://github.com/perigoso/haptic-control</description>
+    </item>
+    
+    <item>
+      <title>jpeg-to-rgb565</title>
+      <link>https://perigoso.github.io/projects/jpeg-to-rgb565/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/jpeg-to-rgb565/</guid>
+      <description>https://github.com/perigoso/jpeg-to-rgb565</description>
+    </item>
+    
+    <item>
+      <title>Keyboard switch library for kicad</title>
+      <link>https://perigoso.github.io/projects/keyswitch-kicad-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/keyswitch-kicad-library/</guid>
+      <description>https://github.com/perigoso/keyswitch-kicad-library</description>
+    </item>
+    
+    <item>
+      <title>My custom keyboard</title>
+      <link>https://perigoso.github.io/projects/keyboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/keyboard/</guid>
+      <description>https://github.com/perigoso/kbd-controller-feral-cat
+https://github.com/perigoso/kbd-numpad-feral-cat
+https://github.com/perigoso/kbd-75-feral-cat
+openinput
+tinyusb efm32 support</description>
+    </item>
+    
+    <item>
+      <title>Nixie Tube Clock</title>
+      <link>https://perigoso.github.io/projects/nixie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/nixie/</guid>
+      <description>https://github.com/perigoso/nixie_clock</description>
+    </item>
+    
+    <item>
+      <title>openeew sensor</title>
+      <link>https://perigoso.github.io/projects/openeew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/openeew/</guid>
+      <description>https://openeew.com/
+https://github.com/openeew/openeew-sensor</description>
+    </item>
+    
+    <item>
+      <title>openinput</title>
+      <link>https://perigoso.github.io/projects/openinput/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/openinput/</guid>
+      <description>https://openinput.readthedocs.io/en/latest/</description>
+    </item>
+    
+    <item>
+      <title>Rival310 Reverse Engineer</title>
+      <link>https://perigoso.github.io/projects/rival310-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/rival310-re/</guid>
+      <description>https://github.com/perigoso/rival310-re
+https://github.com/perigoso/truemove3-re
+https://github.com/FFY00/rival310-re</description>
+    </item>
+    
+    <item>
+      <title>SAME51 Dev Board</title>
+      <link>https://perigoso.github.io/projects/samd-dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/samd-dev/</guid>
+      <description>https://github.com/perigoso/same5x-dev-board</description>
+    </item>
+    
+    <item>
+      <title>SMD Reflow Oven</title>
+      <link>https://perigoso.github.io/projects/reflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/reflow/</guid>
+      <description>https://github.com/perigoso/r3flow-fw
+https://github.com/perigoso/r3flow-hw</description>
+    </item>
+    
+    <item>
+      <title>WIP</title>
+      <link>https://perigoso.github.io/projects/wip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/wip/</guid>
+      <description>This is still work in progress, projects still to be added.</description>
+    </item>
+    
+    <item>
+      <title>WMO-Remastered</title>
+      <link>https://perigoso.github.io/projects/wmo-remasted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://perigoso.github.io/projects/wmo-remasted/</guid>
+      <description>https://github.com/perigoso/wmo-remastered</description>
+    </item>
+    
+  </channel>
+</rss>

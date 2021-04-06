@@ -14,7 +14,7 @@ I am a Linux user.
 
 I consider myself a proficient PCB designer.
 
-I am Experienced with a lot of different microcontroller families (efm32, stm32, pic32, samd, atmega).
+I am Experienced with a lot of different microcontroller families (efm32, stm32, pic32, samd, atmega) as well as some FPGAs (ice40, ecp5).
 
 I am familiar with a couple languages but I am mainly proficient at C and I am learning Python.
 

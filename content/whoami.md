@@ -1,6 +1,8 @@
 
 My name is Rafael and I am an open source developer from Portugal.
 
+I'm working as a Firmware Developer at AJTEC - Information Systems.
+
 Interested in:
 - Electric Vehicles
 - Autonomous Vehicles
@@ -14,7 +16,7 @@ I am a Linux user.
 
 I consider myself a proficient PCB designer.
 
-I am Experienced with a lot of different microcontroller families (efm32, stm32, pic32, samd, atmega) as well as some FPGAs (ice40, ecp5).
+I am Experienced with a lot of different microcontroller families (efm32, stm32, pic32, samd, atmega) as well as familiar with some FPGAs (ice40, ecp5).
 
 I am familiar with a couple languages but I am mainly proficient at C and I am learning Python.
 

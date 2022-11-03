@@ -1,7 +1,7 @@
 
 My name is Rafael and I am an open source developer from Portugal.
 
-I'm working as a Firmware Developer at AJTEC - Information Systems.
+I'm working as an Embedded Software Engineer.
 
 Interested in:
 - Electric Vehicles
